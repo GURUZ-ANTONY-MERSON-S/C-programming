@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+
 #include <stdio.h>
 // Factorial of the given number
 int Fact(int number){
